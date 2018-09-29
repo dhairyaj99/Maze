@@ -1,0 +1,37 @@
+package Assign_4;
+
+//import BasicIO.*;
+
+public class Position {
+  
+  private int xpos, ypos, state;
+  private char character;
+  
+  public Position ( int x, int y, char c, int s ) {
+    xpos = x;
+    ypos = y;
+    character = c;
+    state = s;
+  }
+  
+  public int getX ( ) {
+    return xpos;
+  }
+  
+  public int getY ( ) {
+    return ypos;
+  }
+  
+  public int getS ( ) {
+    return state;
+  }
+  
+  public char getC ( ) {
+    return character;
+  }
+  
+  public void setS(int s){
+    state = s; 
+  }
+  
+}

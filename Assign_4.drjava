@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="Position.java" package="Assign_4" timestamp="23-Mar-2018 02:51:15">
+        <select from="501" to="501"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Maze.java" package="Assign_4" timestamp="23-Mar-2018 15:44:50">
+        <select from="501" to="501"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="MazeB.java" package="Assign_4" timestamp="23-Mar-2018 15:44:50">
+        <select from="501" to="501"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
